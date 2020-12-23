@@ -14,3 +14,7 @@ After creating the metric, not surprisingly, the outcome is highly correlated wi
 But I focused on the top right corner of pass accuracy vs the xP index plot, to identify elite passers, only among midfielders. 
 Then I increased my focus into who exceeds expectations in terms of the xP index level given their pass accuracies. 
 I noted these players down as potentially very effective passers who manage to create successful pass attempts under tougher situations. 
+
+#### Inter Milan - End of Season Club Performance Report
+The pdf file covers our team's final report delivered for the completion of David Sumpter's Mathematical Modelling in Football course. 
+I took an active role in formulating the metrics (such as weighting of expected goals and expected threats) and the simulation modelling parts of the club performance report. 

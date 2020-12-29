@@ -18,13 +18,13 @@ library(seasonal)
 
 #### Loading data and decomposition
 
-This is here the dataset is downloaded to, so I set this as working directory.
+This is where the dataset is downloaded to, so I set this as working directory.
 
 ```{r}
 setwd("C:/Users/Caglar/Desktop/Github")
 ```
 
-Below codes loads to dataset to R environment as time series. 
+Below code loads to dataset to R environment as time series. 
 
 ```{r}
 cons = ts(scan("cons.txt"),start=1959.5,frequency=4)

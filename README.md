@@ -7,7 +7,7 @@ The quality measure that I paid regard while comparing their shot assists was th
 The visualization shows Pogba had much less shot assits compared to Modric during the WC 2018, as he was tasked to play as a deep lying playmaker.
 However, it can be easily seen that the rare chances that Pogba creates had much higher quality in general, compared to those created by Modric.
 
-#### The xP Index
+#### The xP Index - A metric designed to find out effective passers
 The aim was deriving a pass quality metric. I used a sample of 50.000 passes from Premier League and created an expected pass model by logistic regresson.
 When a probability of being successful for each pass is calculated, then it was easy to see what players exceed the expectations in terms of pass completion. 
 After creating the metric, not surprisingly, the outcome is highly correlated with the pass accuracy in general.

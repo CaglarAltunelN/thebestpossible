@@ -15,7 +15,7 @@ But I focused on the top right corner of pass accuracy vs the xP index plot, to 
 Then I increased my focus into who exceeds expectations in terms of the xP index level given their pass accuracies. 
 I noted these players down as potentially very effective passers who manage to create successful pass attempts under tougher situations. 
 
-#### Match Score model - A new fairness metric and an equation to simulate the following season by adjusting relative financial values of clubs
+#### Match Score model - A new fairness metric and a new approach to simulate the following season by adjusting relative financial values of clubs
 The pdf file (InterMilan_EndSeasonReview-ClubPerformance) covers our team's final report delivered for the completion of David Sumpter's Mathematical Modelling in Football course. 
 I took an active role in formulating the metrics (such as weighting of expected goals and expected threats) and the simulation modelling parts of the club performance report. 
 Under the relevant folder, you can find the code for how to build a match score model by making use of a new fairness metric (weighted xG and xT values). 
